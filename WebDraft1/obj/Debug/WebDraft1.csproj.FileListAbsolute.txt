@@ -1,0 +1,90 @@
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form1.resources
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\admin\source\repos\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form1.resources
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form2.resources
+C:\Users\fbasha\Documents\Aneesha\WebDraft1\WebDraft1\obj\Debug\WebDraft1.HistoryForm.resources
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form1.resources
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form2.resources
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.HistoryForm.resources
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\AneeshaProjectFinal (1) -latest\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form1.resources
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form2.resources
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.HistoryForm.resources
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form1.resources
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Form2.resources
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.HistoryForm.resources
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\IP-CW1\WEB BROWSER -FINAL\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.HistoryForm.resources
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.BrowserForm.resources
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.FavoritesForm.resources
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.manifest
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\bin\Debug\WebDraft1.application
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe.manifest
+C:\Users\admin\Desktop\WEB BROWSER - NEED to RECTIFY\WebDraft1\WebDraft1\obj\Debug\WebDraft1.application
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.config
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe.manifest
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\bin\Debug\WebDraft1.application
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\bin\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\bin\Debug\WebDraft1.pdb
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.BrowserForm.resources
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.FavoritesForm.resources
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.HistoryForm.resources
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.Properties.Resources.resources
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe.manifest
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.application
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.exe
+C:\Users\admin\Desktop\Almost final WEB BROWSER - NEED to RECTIFY - Copy\WebDraft1\WebDraft1\obj\Debug\WebDraft1.pdb
