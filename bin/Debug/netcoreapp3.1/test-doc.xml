@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<browser>
+  <hompage>
+    <url>http://wwww.bing.com</url>
+  </hompage>
+  <history>
+    <url>http://www.google.com</url>
+    <url>http://wwww.google.com</url>
+    <url>http://wwww.google.com</url>
+    <url>http://wwww.google.com</url>
+  </history>
+  <favorites>
+    <urlgroup>
+      <name>Youtube</name>
+      <url>http://www.youtube.com</url>
+    </urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>
+      <name>Netflix</name>
+      <url>http://http//www.netflix.com</url>
+    </urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+    <urlgroup>search engine http://wwww.google.com</urlgroup>
+  </favorites>
+</browser>
